@@ -1000,7 +1000,6 @@ nav.visible {
     <span>© 2025 Sevita Beer. DSGN 370 Portfolio.</span>
     <span style="color:#333">Design Thinker &amp; Doer</span>
   </div>
-</footer>
  
 <script>
 // ── CURSOR ──────────────────────────────────────────────
@@ -1363,5 +1362,3 @@ window.addEventListener('scroll', () => {
   lastScroll = currentScroll;
 });
 </script>
-</body>
-</html>
